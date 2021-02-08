@@ -174,7 +174,7 @@ footer li:hover{
     h1{
         display:block;
         font-weight: 400;
-        font-size: 30px;
+        font-size: var(--title);
         color:var(--dark-grey);
         line-height:2em;
     }
